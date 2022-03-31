@@ -6,14 +6,8 @@ using System.Threading.Tasks;
 
 namespace CMP1903M_Workshop_Code_VS2019
 {
-    class History
+    class Names
     {
-        private Stack<Page> history;
-
-        //constructor
-        public History()
-        {
-            history = new Stack<Page>();
-        }
+        //class Names to hold your list of names and various methods
     }
 }
